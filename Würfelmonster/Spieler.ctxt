@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spieler
+comment1.params=
+comment1.target=Spieler()
+comment2.params=w\u00FCrfelfarbe
+comment2.target=void\ w\u00FCrfeln(java.lang.String)
+comment3.params=
+comment3.target=void\ zeigePreise()
+comment4.params=blaueW\u00FCrfel\ roteW\u00FCrfel\ gr\u00FCneW\u00FCrfel
+comment4.target=void\ kaufen(int,\ int,\ int)
+comment5.params=
+comment5.target=void\ zeigeStatistik()
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Monster
+comment1.params=
+comment1.target=Monster()
+comment2.params=w\u00FCrfelAnzahl
+comment2.target=void\ w\u00FCrfeln(int)
+comment3.params=spieler
+comment3.target=void\ beute(Spieler)
+numComments=4

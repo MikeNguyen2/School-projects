@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BlauerW\u00FCrfel
+comment1.params=
+comment1.target=BlauerW\u00FCrfel()
+comment2.params=deinName
+comment2.target=BlauerW\u00FCrfel(java.lang.String)
+comment3.params=
+comment3.target=void\ anzeigen()
+comment4.params=
+comment4.target=void\ w\u00FCrfeln()
+numComments=5

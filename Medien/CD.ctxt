@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CD
+comment0.text=\r\n\ Objekte\ dieser\ Klasse\ repr\uFFFDsentieren\ CDs.\ \r\n\ Sie\ speichern\ Informationen\ \uFFFDber\ eine\ CD,\ die\r\n\ wieder\ abgefragt\ werden\ k\uFFFDnnen.\r\n\ \r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 2003-03-31\r\n
+comment1.params=derTitel\ derKuenstler\ stuecke\ laenge
+comment1.target=CD(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Konstruktor\ f\uFFFDr\ Objekte\ der\ Klasse\ CD\r\n
+comment2.params=
+comment2.target=java.lang.String\ gibKuenstler()
+comment2.text=\r\n\ Liefere\ den\ K\uFFFDnstler\ dieser\ CD.\r\n
+comment3.params=
+comment3.target=int\ gibTitelanzahl()
+comment3.text=\r\n\ Liefere\ die\ Anzahl\ der\ Titel\ auf\ dieser\ CD.\r\n
+numComments=4

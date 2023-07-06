@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Video
+comment0.text=\r\n\ Objekte\ dieser\ Klasse\ repr\uFFFDsentieren\ Videos.\ Es\ werden\r\n\ Informationen\ \uFFFDber\ ein\ Video\ verwaltet,\ die\ wieder\r\n\ abgefragt\ werden\ k\uFFFDnnen.\r\n\ \r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 2003-03-31\r\n
+comment1.params=derTitel\ derRegisseur\ laenge
+comment1.target=Video(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Konstruktor\ f\uFFFDr\ Objekte\ der\ Klasse\ Video\r\n
+comment2.params=
+comment2.target=java.lang.String\ gibRegisseur()
+comment2.text=\r\n\ Liefere\ den\ Regisseur\ dieses\ Videos.\r\n
+numComments=3

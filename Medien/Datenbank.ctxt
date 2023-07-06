@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Datenbank
+comment0.text=\r\n\ Die\ Klasse\ Datenbank\ bieten\ M\uFFFDglichkeiten\ zum\ Speichern\r\n\ von\ CD-\ und\ Video-Objekten.\ Eine\ Liste\ aller\ CDs\ und\ Videos\r\n\ kann\ auf\ der\ Konsole\ ausgegeben\ werden.\r\n\ \r\n\ Diese\ Version\ speichert\ die\ Daten\ nicht\ im\ Dateisystem\ und\r\n\ bietet\ keine\ Suchfunktion.\r\n\ \r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 2003-03-31\r\n
+comment1.params=
+comment1.target=Datenbank()
+comment1.text=\r\n\ Erzeuge\ eine\ leere\ Datenbank.\r\n
+comment2.params=dasMedium
+comment2.target=void\ erfasseMedium(Medium)
+comment2.text=\r\n\ Erfasse\ das\ gegebene\ Medium\ in\ dieser\ Datenbank.\r\n
+comment3.params=
+comment3.target=void\ auflisten()
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spielleiter
+comment1.params=spielerart
+comment1.target=Spielleiter(java.lang.String)
+comment2.params=
+comment2.target=void\ Hilfe()
+comment3.params=
+comment3.target=void\ deineStatistik()
+comment4.params=w\u00FCrfelfarbe
+comment4.target=void\ k\u00E4mpfen(java.lang.String)
+comment5.params=blaueW\u00FCrfel\ roteW\u00FCrfel\ gr\u00FCneW\u00FCrfel
+comment5.target=void\ kaufen(int,\ int,\ int)
+numComments=6

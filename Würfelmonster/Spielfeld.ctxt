@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Spielfeld
+comment0.text=\r\n\ Eine\ grafische\ Ansicht\ des\ Simulationsfeldes.\r\n\ \r\n
+comment1.params=
+comment1.target=Spielfeld()
+comment1.text=\r\n\ Erzeuge\ eine\ Ansicht\ mit\ der\ gegebenen\ Breite\ und\ H\u00F6he.\r\n
+comment2.params=
+comment2.target=void\ erneutZeichnen()
+comment2.text=\r\n\ Zeichne\ erneut\ alle\ Figuren\ auf\ der\ Leinwand.\r\n
+numComments=3

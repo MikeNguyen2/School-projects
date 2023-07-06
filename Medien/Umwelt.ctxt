@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Umwelt
+comment1.params=uname
+comment1.target=Umwelt(java.lang.String)
+comment2.params=uname\ uanzahl
+comment2.target=Umwelt(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ auflisten()
+numComments=4

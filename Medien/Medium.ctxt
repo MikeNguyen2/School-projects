@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Medium
+comment0.text=\r\n\ Objekte\ dieser\ Klasse\ repr\uFFFDsentieren\ Medien\ in\ einer\r\n\ Multimedia-Datenbank.\ Sie\ speichern\ Informationen\ \uFFFDber\ ein\r\n\ Medium,\ die\ wieder\ abgefragt\ werden\ k\uFFFDnnen.\r\n\ Diese\ Klasse\ dient\ als\ Oberklasse\ f\uFFFDr\ speziellere\ Medientypen.\r\n\ \r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 2003-03-31\r\n
+comment1.params=derTitel\ laenge
+comment1.target=Medium(java.lang.String,\ int)
+comment2.params=kommentar
+comment2.target=void\ setzeKommentar(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ gibKommentar()
+comment4.params=vorhanden
+comment4.target=void\ setzeVorhanden(boolean)
+comment5.params=
+comment5.target=boolean\ gibVorhanden()
+comment6.params=
+comment6.target=void\ ausgeben()
+numComments=7
